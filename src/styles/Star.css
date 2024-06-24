@@ -1,0 +1,21 @@
+/* src/styles/Star.css */
+.star-rating {
+    position: center;
+    padding: 10px;
+  }
+  
+  .star {
+    color: #B85042;
+    font-size: 2em;
+  }
+  
+  .half {
+    position: relative;
+    margin-right: 0em; /* Adjust as needed for alignment */
+  }
+  
+  .card__rating-value {
+    margin-left: 0.5em;
+    font-weight: bold;
+  }
+  

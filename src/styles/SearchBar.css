@@ -1,0 +1,32 @@
+/* src/styles/SearchBar.css */
+.search-bar {
+    margin: 20px;
+  }
+  
+  .search-bar form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  .search-bar button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #B85042;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+  }
+  
+  .search-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
